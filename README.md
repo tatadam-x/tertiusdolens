@@ -8,7 +8,7 @@ This repository hosts the source files for http://tertiusdolens.com, a minimal a
 
 *Tertius dolens* describes a brokering position in which conflict between alters turns an apparently favorable network position into a significant liability. The concept is developed in:
 
-Tatarynowicz, Adam, and Thomas Keil. 2026. “*Tertius Dolens*: Interalter Conflict and Its Negative Impact on Broker Performance.” *Organization Science*. https://doi.org/10.1287/orsc.2024.19168
+Tatarynowicz, A., & Keil, T. (2026). “Tertius Dolens: Interalter Conflict and Its Negative Impact on Broker Performance.” *Organization Science*. https://doi.org/10.1287/orsc.2024.19168
 
 ## Purpose
 
