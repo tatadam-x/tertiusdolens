@@ -195,4 +195,9 @@ figcaption {
   .concept-figure {
     max-width: 280px;
   }
+
+  .concept-figure figcaption {
+    white-space: normal;
+    font-size: 0.8rem;
+  }
 }
